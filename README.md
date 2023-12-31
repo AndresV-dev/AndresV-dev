@@ -20,10 +20,4 @@ I love learn about new things. I always been passionate about how the things wor
 
 <p align="left"> <a href="https://www.github.com/AndresV-dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/AndresV-dev"><img src="https://github-readme-stats.vercel.app/api?username=AndresV-dev&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="AndresV-dev's GitHub stats" /></a>
-
-<a href="https://github.com/AndresV-dev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresV-dev&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="left"><a href="https://linkedin.com/in/www.linkedin.com/in/andresv-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/andresv-dev" height="30" width="40" /></a></p>
